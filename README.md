@@ -1,8 +1,20 @@
+<p align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+         alt="MasterHead" 
+         width="800"/>
+  </a>
+</p>
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=raghunandan0&label=Profile%20Views&color=0e75b6&style=flat)
 
 # 💫 Hi 👋, I'm Raghunandan
 
 **🚀Full-Stack Engineer (MERN) | Problem Solver with Java & DSA | Passionate about AI/ML**
+
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
+
 
 
 📧 **Let’s connect!** Drop me an email at **amny0843@gmail.com**
