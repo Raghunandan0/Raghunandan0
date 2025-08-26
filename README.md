@@ -31,7 +31,7 @@
 - 💬 **Ask me about:** **Java**, **DSA**, **MERN stack** (React/Node/Express/MongoDB), REST APIs, WebSockets, payment integrations, and basic DevOps (Docker, CI/CD).
   
 - 📫 **How to reach me:** amny0843@gmail.com
-- 
+
 - ⚡ **Fun fact:** I believe *every bug is just a hidden feature waiting to be discovered*.
 
 
