@@ -7,7 +7,8 @@
 
 📧 **Let’s connect!** Drop me an email at **amny0843@gmail.com**
  for projects, discussions, tech collaborations or exciting opportunities.
- 
+
+ ----
 
 - 🔭 **I’m currently working on:** Actively building impactful **full-stack projects with the MERN stack**, continuously sharpening my **DSA** expertise, and progressively exploring **AI/ML** technologies.
 
