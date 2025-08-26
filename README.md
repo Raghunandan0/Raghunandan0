@@ -17,9 +17,8 @@
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
 
-
-📧 **Let’s connect!** Drop me an email at **amny0843@gmail.com**
- for projects, discussions, tech collaborations or exciting opportunities.
+📩 **Let’s connect!** Reach me at **amny0843@gmail.com**
+ for collaborations, projects, or exciting opportunities.
 
 
 - 🔭 **I’m currently working on:** Actively building impactful **full-stack projects with the MERN stack**, continuously sharpening my **DSA** expertise, and progressively exploring **AI/ML** technologies.
@@ -33,7 +32,7 @@
   
 - 📫 **How to reach me:** amny0843@gmail.com
 - 
-- ⚡ **Fun fact:** I believe *every bug is just a hidden feature waiting to be discovered*. 😄
+- ⚡ **Fun fact:** I believe *every bug is just a hidden feature waiting to be discovered*.
 
 
 ## 🌐 Socials:
