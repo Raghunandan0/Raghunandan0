@@ -35,6 +35,32 @@
 - ⚡ **Fun fact:** I believe *every bug is just a hidden feature waiting to be discovered*.
 
 
+  
+## 🏆 LeetCode Info 
+
+<div align="center"> 
+<!--   <h2 align="center"> 🏆Leetcode Info</h2>   -->
+  <p align="center">
+    <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode 100 Problems Badge" height="200" width="200" />
+    </a> 
+    <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Problems Badge" height="200" width="200" />
+    </a> 
+    <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202507.gif" alt="LeetCode July 2025 Badge" height="200" width="200" />
+    </a> 
+    <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202506.gif" alt="LeetCode June 2025 Badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202505.gif" alt="LeetCode May 2025 Badge" height="200" width="200" /> 
+    </a> 
+  </p>
+</div>
+
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/bWtFAvyb3W) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghunandan0) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/theamny012) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31354535) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@callmeamn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amny0843@gmail.com) 
 
