@@ -1,11 +1,11 @@
-<!--<p align="center">
+<p align="center">
   <a href="https://rishavchanda.io">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
          alt="MasterHead" 
          width="800"/>
   </a>
-</p> -->
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+</p> 
+<!--[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io) -->
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raghunandan0&label=Profile%20Views&color=0e75b6&style=flat)
