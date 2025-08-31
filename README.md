@@ -57,7 +57,7 @@
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202505.gif" alt="LeetCode May 2025 Badge" height="200" width="200" /> 
     </a> 
    <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
-      <img src="https://assets.leetcode.com/static_assets/marketing/202508.gif" alt="LeetCode Aug 2025 Badge" height="200" width="200" />
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202508.gif" alt="LeetCode Aug 2025 Badge" height="200" width="200" />
     </a>
   </p>
 </div>
