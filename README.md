@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rishavchanda.io">
+  <a href="https://github.com/Raghunandan0">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
          alt="MasterHead" 
          width="800"/>
@@ -35,37 +35,65 @@
 - ⚡ **Fun fact:** I believe *every bug is just a hidden feature waiting to be discovered*.
 
 
-  
-## 🏆 LeetCode Info 
-
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/raghunandan01?theme=dark&extension=contest)
 <div align="center"> 
 <!--   <h2 align="center"> 🏆Leetcode Info</h2>   -->
   <p align="center">
     <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode 100 Problems Badge" height="200" width="200" />
+      <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode 100 Problems Badge" height="120" width="120" />
     </a> 
     <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Problems Badge" height="200" width="200" />
+      <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Problems Badge" height="120" width="120" />
     </a> 
     <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202507.gif" alt="LeetCode July 2025 Badge" height="200" width="200" />
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202507.gif" alt="LeetCode July 2025 Badge" height="120" width="120" />
     </a> 
     <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202506.gif" alt="LeetCode June 2025 Badge" height="200" width="200" />
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202506.gif" alt="LeetCode June 2025 Badge" height="120" width="120" />
     </a>
     <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202505.gif" alt="LeetCode May 2025 Badge" height="200" width="200" /> 
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202505.gif" alt="LeetCode May 2025 Badge" height="120" width="120" /> 
     </a> 
    <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202508.gif" alt="LeetCode Aug 2025 Badge" height="200" width="200" />
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202508.gif" alt="LeetCode Aug 2025 Badge" height="120" width="120" />
     </a>
   </p>
 </div>
 
 
 
+<!-- ## 🏆 LeetCode Info -->
+<!--
+<div align="center"> 
+<!--   <h2 align="center"> 🏆Leetcode Info</h2>   -->
+ <!-- <p align="center">
+    <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode 100 Problems Badge" height="120" width="120" />
+    </a> 
+    <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Problems Badge" height="120" width="120" />
+    </a> 
+    <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202507.gif" alt="LeetCode July 2025 Badge" height="120" width="120" />
+    </a> 
+    <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202506.gif" alt="LeetCode June 2025 Badge" height="120" width="120" />
+    </a>
+    <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202505.gif" alt="LeetCode May 2025 Badge" height="120" width="120" /> 
+    </a> 
+   <a href="https://leetcode.com/u/Raghunandan01/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202508.gif" alt="LeetCode Aug 2025 Badge" height="120" width="120" />
+    </a>
+  </p>
+</div> -->
+
+
+
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/bWtFAvyb3W) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghunandan0) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/theamny012) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31354535) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@callmeamn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amny0843@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bWtFAvyb3W)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghunandan0) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/theamny012) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31354535) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@callmeamn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amny0843@gmail.com) 
 
 
 # 💻 Tech Stack:
