@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raghunandan0&label=Profile%20Views&color=0e75b6&style=flat)
 
-# 💫 Hi 👋, I'm Raghunandan
+# <h2> Hi 👋, I'm Raghunandan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 **🚀Full-Stack Engineer (MERN) | Problem Solver with Java & DSA | Passionate about AI/ML**
 
@@ -35,6 +35,7 @@
 
 - ⚡ **Fun fact:** I believe *every bug is just a hidden feature waiting to be discovered*.
 
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ## 🏆 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/raghunandan01?theme=dark&extension=contest)
