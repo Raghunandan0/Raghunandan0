@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raghunandan0&label=Profile%20Views&color=0e75b6&style=flat)
 
-# <h2> Hi 👋, I'm Raghunandan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+# <h1> Hi 👋, I'm Raghunandan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 **🚀Full-Stack Engineer (MERN) | Problem Solver with Java & DSA | Passionate about AI/ML**
 
